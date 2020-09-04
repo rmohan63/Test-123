@@ -336,7 +336,7 @@ async function navigateToSamples(testController: TestController, user: Role) {
 
         // Pause let filter action complete
 
-        .wait(1000);
+        .wait(1100);
 
  
 
